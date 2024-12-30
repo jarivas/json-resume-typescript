@@ -5,7 +5,7 @@
   "main": "./dist/main.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jarivas/json-resume-typescript"
+    "url": "git+https://github.com/jarivas/json-resume-typescript.git"
   },
   "scripts": {
     "test": "jest --detectOpenHandles",
